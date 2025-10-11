@@ -6,13 +6,11 @@
 
         default_layer {
             bindings = <
-                &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U
-                &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J
-                &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M
-                &kp Q  &kp W  &kp E  &kp R  &kp T  &kp Y  &kp U
-                &kp A  &kp S  &kp D  &kp F  &kp G  &kp H  &kp J
-                &kp Z  &kp X  &kp C  &kp V  &kp B  &kp N  &kp M
-            >;
+&kp TAB    &kp Q     &kp W      &kp E      &kp R      &kp T        &kp Y     &kp U      &kp I      &kp O      &kp P     &kp BKSP
+  &kp LCTL        &kp A     &kp S      &kp D      &kp F      &kp G        &kp H     &kp J      &kp K      &kp L      &kp ENTER
+    &kp LSHFT       &kp Z     &kp X      &kp C      &kp V      &kp B        &kp N     &kp M      &kp COMMA  &kp DOT    &kp RSHFT
+       &kp LALT   &mt LGUI LANG2   &mt LGUI LANG2   &kp SPACE    &kp ENTER   &mt RGUI LANG1  &mt RGUI LANG1  &kp LANG1
+>;
         };
     };
 };
