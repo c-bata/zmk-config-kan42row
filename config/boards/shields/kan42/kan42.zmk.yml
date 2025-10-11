@@ -1,0 +1,8 @@
+file_format: "1"
+id: kan42
+name: Kan42
+type: shield
+url: https://github.com/c-bata/zmk-config-kan42
+requires: [seeeduino_xiao_ble]
+features:
+  - keys

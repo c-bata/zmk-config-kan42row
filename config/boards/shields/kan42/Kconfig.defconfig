@@ -1,0 +1,4 @@
+if KAN42
+config ZMK_KEYBOARD_NAME
+    default "Kan42 KBD"
+endif
