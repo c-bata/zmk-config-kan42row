@@ -2,6 +2,8 @@
 
 ![keyboard](./keyboard.jpg)
 
+For pairing and connection instructions in Japanese, see [README_PAIRING_JA.md](./README_PAIRING_JA.md).
+
 This is a 42-key low-profile wireless keyboard powered by a CR2032 coin cell instead of a LiPo battery, designed for safety and ease of maintenance.
 It uses the XIAO nRF52840 MCU and ZMK firmware, both known for their low power consumption.
 
@@ -37,4 +39,3 @@ The total cost is approximately under 6,000 yen without keycaps, or around 12,00
 | *(optional)* Pch MOSFET SSM3J332R | 1        | [Akizuki Denshi](https://akizukidenshi.com/catalog/g/g115985/)                                                                                                                             | 120 yen         |
 | *(optional)* CR2032 holder        | 1        | [Akizuki Denshi](https://akizukidenshi.com/catalog/g/g106925/)                                                                                                                             | 50 yen          |
 | *(optional)* 10 kΩ resistor       | 1        | —                                                                                                                                                                                          | —               |
-
